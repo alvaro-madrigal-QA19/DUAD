@@ -1,0 +1,59 @@
+********Dado un `precio de un producto`, calcular el descuento y mostrar el precio final tomando en cuenta que:
+			1. Si el precio es menor a 100, el descuento es del 2%.
+			2. Si el precio es mayor o igual a 100, el descuento es del 10%.
+			3. *Ejemplos*:
+				1. 120 → 108
+				2. 40 → 39.2
+		
+1.INICIO
+2.Definir precio_Producto
+3.Definir calcular_Descuento
+4.Definir precio_Final
+5.Mostrar "Ingrese el valor del producto: "
+6.Pedir precio_Producto
+7.Si (precio_Producto < 100) entonces:
+	a.calcular_Descuento = (precio_Producto * 0.02)
+	b.precio_Final = precio_Producto - calcular_Descuento
+	c.Mostrar "Sus compra es menor de 100, su descuento debe ser de 2%"
+	d.Mostrar "Su monto final a pagar es de: "
+	e.Mostrar precio_Final
+8.Sino (precio_Producto >= 100):
+	a.calcular_Descuento = (precio_Producto * 0.10)
+	b.precio_Final = precio_Producto - calcular_Descuento
+	c.Mostrar "Sus compra es mayor o igual de 100, su descuento debe ser de 10%"
+	d.Mostrar "Su monto final a pagar es de: "
+	e.Mostrar precio_Final
+9.FinSI
+10.FIN		
+		
+
+********Dado un `tiempo en segundos`, calcule si es menor o mayor a 10 minutos.
+			1. Si es menor, muestre cuantos segundos faltarían para llegar a 10 minutos.
+			2. *Ejemplos*:
+				1. 1040 → Mayor
+				2. 140 → 160
+				
+1.INICIO
+2.Definir tiempo_Segundos
+3.Definir tiempo_mayor_minutos
+4.Definir tiempo_menor_minutos
+5.Definir faltan_minutos
+6.Mostrar "Ingrese los segundos deseados"
+7.Pedir tiempo_Segundos
+8.Si (tiempo_Segundos == 600) entonces:
+	a.Mostrar "La cantidad de segundos ingresados es igual a 10minutos"
+9.Sino (tiempo_Segundos > 600) entonces:
+	a.tiempo_mayor_minutos = tiempo_Segundos * 60
+	b.Mostrar "Los segundos ingresados son mayor a 10 minutos"
+	c.Mostrar "Los segundos ingresados equivalen en segundos a: "
+	d.Mostrar tiempo_mayor_minutos
+10.Sino (tiempo_Segundos < 600) entonces:
+	a.tiempo_menor_minutos = tiempo_Segundos * 60
+	b.Mostrar "Los segundos ingresados son menor a 10 minutos"
+	c.Mostrar "Los segundos ingresados equivalen en segundos a: "
+	d.Mostrar tiempo_menor_minutos	
+	e.faltan_minutos = tiempo_Segundos - 600
+	f.Mostrar "Los segundos faltantes para los 10 minutos son: "
+	g.Mostrar "faltan_minutos"
+11.FinSI
+12.FIN
