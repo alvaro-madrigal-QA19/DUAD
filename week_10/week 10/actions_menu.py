@@ -1,11 +1,18 @@
+import re
+
 def valid_name(field_name):
  while True:    
         try:
             names = str(input(f'-Please enter the {field_name}: '))
-            if names.isalpha():
+
+            value = r'^[A-Za-záéíóúÁÉÍÓÚñÑ\s]+$'
+            
+
+            if re.match(value, names) and names != "":
                 return names
             else:
                 print('\n\033[91mThe name must contain only letters.\033[0m\n')
+                
         except ValueError:
             print(f'\n\033[93mPlease, Enter of valid {field_name}.\033[0m\n')
 
