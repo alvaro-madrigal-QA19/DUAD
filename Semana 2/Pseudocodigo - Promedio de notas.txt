@@ -1,0 +1,70 @@
+-        Dadas las horas trabajadas de una persona y su tarifa por hora, calcular y mostrar su salario.
+
+1.     Inicio
+2.     Definir horas trabajadas = 0
+3.     Definir tarifas por hora = 0
+4.     Definir Salario = 0
+5.     Mostrar “Por favor, ingrese la cantidad de horas trabajadas: ”
+6.     Pedir horas trabajadas
+7.     Mostrar “Por favor, ingrese el monto que gana por hora: ”
+8.     Pedir tarifas por hora
+9.     Salario = horas trabajadas * tarifas por hora
+10.  Mostrar “Según el cálculo realizado, su salario es de: ”
+11.  Mostrar Salario
+12.  Fin
+
+ 
+
+-        Dada n cantidad de notas de un estudiante, calcular:
+
+Cuantas notas tiene aprobadas (mayor o igual a 70). ****
+Cuantas notas tiene desaprobadas (menor a 70).  ****
+El promedio de todas.
+El promedio de las aprobadas.
+El promedio de las desaprobadas.
+
+1.Inicio
+2.Definir cantidad_notas
+3.Definir cantidad_notas_aprobadas
+4.Definir cantidad_notas_desaprobadas
+5.Definir contador = 1
+6.Definir nota
+7. Definir `promedio_total`
+8. Definir `promedio_aprobadas`
+9. Definir `promedio_desaprobadas`
+10.Mostrar “Por favor ingrese la cantidad de notas: ”
+11.Pedir cantidad de notas
+12.cantidad_notas_aprobadas = 0
+13.promedio_desaprobadas = 0
+14.promedio_total = 0
+15.promedio_aprobadas = 0
+16.promedio_desaprobadas = 0
+17.contador = 1
+18.Mientras que (contador <= cantidad_notas): //hasta que contador sea menor o igual a la cantidad de notas ingresado por le usuario
+	a.Mostrar “Ingrese la nota: ”
+	b.Mostrar contador
+	c.Pedir nota
+	d.Si (nota>=70) entonces:
+		i.Notas_aprobadas = notas_aprobadas + 1
+		ii.promedio_aprobadas = promedio_aprobadas + nota  // la variable esta iniciada en cero, almacena la primer nota en el primer recorrida y le va sumando las notas
+	e.Sino (nota<70)
+		i.Notas_desaprobadas = notas_desaprobadas = 1
+		ii.promedio_desaprobadas = promedio_desaprobadas + nota // la variable esta iniciada en cero, almacena la primer nota en el primer recorrida y le va sumando las notas
+	f.FinSi
+	g. promedio_total = promedio_total + nota // la variable esta iniciada en cero, almacena la primer nota en el primer recorrida y le va sumando las notas
+	h.contador = contador + 1 // el contador esta iniciado en 1 ya que cuenta la primera ejecucion y la cuenta y asi sucesivamente hasta llegar a la cantidad_notas
+19.FinMientras
+20.promedio_total = promedio_total / cantidad_notas
+21.promedio_aprobadas = promedio_aprobadas / cantidad_notas_aprobadas
+22.promedio_desaprobadas = promedio_desaprobadas / cantidad_notas_desaprobadas
+23. Mostrar "El promedio total es: "
+24. Mostrar promedio_total
+25. Mostrar "El promedio aprobado es: "
+26. Mostrar promedio_aprobadas
+27. Mostrar "El promedio desaprobadas es: "
+28. Mostrar promedio_desaprobadas
+29. Mostrar "Su cantidad de notas aprobadas es "
+30. Mostrar Notas_aprobadas
+31. Mostrar "Su cantidad de notas desaprobadas es "
+32. Mostrar Notas_desaprobadas
+33.  Fin

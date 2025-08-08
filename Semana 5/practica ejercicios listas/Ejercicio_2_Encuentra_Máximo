@@ -1,0 +1,11 @@
+lista = []
+
+num = int(input('Ingrese la cantidad de numeros a la lista: '))
+contador = 1
+
+while(contador <= num):
+    num2 = int(input(f'Ingrese el valor del #{contador}: '))
+    lista.append(num2)
+    contador += 1
+
+print(f'El valor máximo de la lista es: {max(lista)}')

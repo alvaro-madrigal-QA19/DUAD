@@ -1,0 +1,118 @@
+
+						*****Ver video en YouTube*****
+						
+1. Inicio
+2. Conectar el cable de carga 
+	a. Tomar el cable de carga
+	b. Enchufarlo en el interruptor de electricidad
+2. Prender la computadora
+	a.Presionar el botón de encendido
+3. Buscar el navegador
+	a.Colocar el cursor sobre el cuadro de busqueda de la computadora
+	b.Digitar el nombre del navegador de preferencia, que se encuentre instalado
+4. Abrir el navegador
+	a. Presionar sobre el icono del navegador 
+5. Buscar el sitio Youtube
+	a. Colocar el cursor sobre el cuadro de busqueda del navegador
+	b. Digitar "https://www.youtube.com/"
+	c. Presionar el botón de "Buscar" o la tecla "Enter" del teclado de la computadora
+6. Buscar el video de preferencia
+	a. Colocar el cursor sobre el cuadro de busqueda de Youtube
+	b. Digitar el nombre del video
+	c. Presionar el botón de "Lupa" o la tecla "Enter" del teclado de la computadora
+7. Fin
+
+
+						*****Jordana Laboral*****
+1. Inicio
+2. Mientras que no sean las 7:20am :
+	a. Seguir durmiendo
+3. Levantarse de la cama
+	a. Estirar los músculos del cuerpo
+4. Tender la cama
+	a. Tomar la sabana
+	b. Acomodar la sabana en su lugar
+5. Doblar las cobijas
+	a. Mientras que las cobijas no esten ordenadas:
+		i. Doblar las cobijas
+6. Abrir la puerta
+	a. Caminar hacia la puerta
+	b. Tomar el cerrojo
+	c. Quitar el seguro del cerrojo
+	d. Girar el cerrojo 
+	e. Abrir la puerta
+7. Ir a la pila
+	a. Mientras que no haya llegado a la pila:
+		i. Seguir caminando
+8. Abra el grifo
+9. Si tiene agua:
+	a. Enjuague la cara
+	b. Tome jabon 
+	c. Restriegue su cara
+	d. Vuelva a enjuagar la cara
+	e. Tomar un paño
+	f. Secar la cara
+	g. Tender el paño
+10. Sino:
+	a. Busque una toaquilla húmeda
+	b. Limpie su cara suavemente
+11. Regresar al cuarto:
+	a. Mientras que no haya llegado al cuarto:
+		i. Seguir caminando
+12. Cerrar la puerta
+	a. Tomar el cerrojo
+	b. Cerrar la puerta
+13.Sentarme en la silla frente a la computadora
+	a. Si esta frente a la silla:
+		i. Sentarse
+	b. Sino:
+		i. Continuar caminando
+14. Prender computadora
+15. Conectar el cable de carga 
+	a. Tomar el cable de carga
+	b. Enchufarlo en el interruptor de electricidad
+16. Prender la computadora
+	a.Presionar el botón de encendido
+17. Ingreso de credenciales
+	a. Si tiene los credenciales correctos:
+		i.   Ingrese la clave
+		ii.  Ingrese contraseña
+		iii. Presione la tecla "Enter"
+	b. Sino:
+		i. Contacte al equipo de Soporte
+18. Colocar estado "Disponible" en Microsoft Teams
+	a. Si esta instalado en la computadora:
+		i.   Buscar la aplicación Microsoft Teams
+				1.Colocar el cursor sobre el cuadro de busqueda de la computadora
+				2.Digitar el nombre "Teams"		
+		ii.  Abrir la aplicación Microsoft Teams
+				1.Clic sobre el icono de la aplicación
+		iii. Colocar estado "Disponible"
+				1.Clic sobre el icono de "sesion"
+				2.Seleccionar estado "Disponible"
+	b. Sino, si tiene celular o tablet y permisos en el dispositivo
+		i.   Buscar la aplicación Microsoft Teams
+		ii.  Abrir la aplicación Microsoft Teams
+				1. Presionar sobre el icono de la aplicación
+		iii. Colocar estado "Disponible"
+				1.Presionar sobre el icono de "sesion"
+				2.Seleccionar estado "Disponible"
+19. Si la hora es mayor o igual a las 7.45am pero menor o igual a las 5.20pm:
+	a. Continuar en estado disponible
+20. Sino:
+	a. Cambiar de estado en Microsoft Teams
+		ii.  Abrir la aplicación Microsoft Teams
+				1.Clic sobre el icono de la aplicación
+		iii. Colocar estado "Desconectado"
+				1.Clic sobre el icono de "sesion"
+				2.Seleccionar estado "Desconectado"
+	b. Apagar la computadora
+		i. 	  Guardar los procesos en las aplicaciones.
+		ii.   Cerrar todas las aplicaciones abiertas.
+		iii.  Clic sobre el icono de Windows.
+		iv.   Seleccionar la opcion de apagar.
+		v. 	  Cerrar la tapa de la computadora.
+21. Fin.	
+
+
+		
